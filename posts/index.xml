@@ -13,7 +13,7 @@
       
       <guid>https://www.bkjha.com/posts/rclone-onedrive/</guid>
       <description>Hi there 👋
-Let&amp;rsquo;s say you have to share a report that you&amp;rsquo;re generating programatically with a consultant in your company every week. Your general approach might be to upload it to your organization&amp;rsquo;s document/file storage platform(e.g OneDrive) and share it. If you&amp;rsquo;ve to do this multiple times, it&amp;rsquo;s boring to perform the same steps over and over again!
+Let&amp;rsquo;s say you have to share a report that you&amp;rsquo;re generating programmatically with a consultant in your company every week. Your general approach might be to upload it to your organization&amp;rsquo;s document/file storage platform(e.g OneDrive) and share it. If you&amp;rsquo;ve to do this multiple times, it&amp;rsquo;s boring to perform the same steps over and over again!
 What about automating this process? As soon as your report is generated you can run a command that will copy your file present in local to OneDrive server.</description>
     </item>
     

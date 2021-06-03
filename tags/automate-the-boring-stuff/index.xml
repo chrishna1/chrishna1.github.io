@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bal Krishna Jha</title>
-    <link>https://www.bkjha.com/posts/</link>
-    <description>Recent content in Posts on Bal Krishna Jha</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Feb 2021 21:11:39 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My first blog</title>
-      <link>https://www.bkjha.com/posts/first/</link>
-      <pubDate>Sat, 20 Feb 2021 21:11:39 +0530</pubDate>
-      
-      <guid>https://www.bkjha.com/posts/first/</guid>
-      <description>Hi there 👋
-Finally, I&amp;rsquo;m done with the setup of my blog. The purpose of this blog will be to share the
- 💬 Concepts that I keep learning in a simple language 📚 Books that I read and many other things, that I&amp;rsquo;m also not sure about.  Let&amp;rsquo;s hope this blogging spirit continues forever! 😎
-Have fun, Keep hacking!</description>
-    </item>
-    
+    <title>automate-the-boring-stuff on Bal Krishna Jha</title>
+    <link>https://www.bkjha.com/tags/automate-the-boring-stuff/</link>
+    <description>Recent content in automate-the-boring-stuff on Bal Krishna Jha</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.bkjha.com/tags/automate-the-boring-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Use rclone with OneDrive(Business plan) without Business API access</title>
       <link>https://www.bkjha.com/posts/rclone-onedrive/</link>

@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.bkjha.com/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/tags/first/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/posts/first/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/posts/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/tags/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/automate-the-boring-stuff/</loc>
+  </url><url>
     <loc>https://www.bkjha.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/cli/</loc>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/rclone/</loc>
+  </url><url>
     <loc>https://www.bkjha.com/search/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.bkjha.com/series/</loc>
+  </url><url>
+    <loc>https://www.bkjha.com/posts/rclone-onedrive/</loc>
   </url>
-  
 </urlset>

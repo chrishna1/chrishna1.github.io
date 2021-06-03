@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.bkjha.com/tags/automate-the-boring-stuff/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
     <loc>https://www.bkjha.com/</loc>
-    <lastmod>2021-02-20T21:11:39+05:30</lastmod>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/cli/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/posts/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/rclone/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/posts/rclone-onedrive/</loc>
+    <lastmod>2021-06-03T10:16:53+05:30</lastmod>
   </url><url>
     <loc>https://www.bkjha.com/tags/first/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
@@ -11,26 +29,12 @@
     <loc>https://www.bkjha.com/posts/first/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
   </url><url>
-    <loc>https://www.bkjha.com/posts/</loc>
-    <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url><url>
-    <loc>https://www.bkjha.com/tags/</loc>
-    <lastmod>2021-02-20T21:11:39+05:30</lastmod>
-  </url><url>
     <loc>https://www.bkjha.com/archives/</loc>
   </url><url>
-    <loc>https://www.bkjha.com/tags/automate-the-boring-stuff/</loc>
-  </url><url>
     <loc>https://www.bkjha.com/categories/</loc>
-  </url><url>
-    <loc>https://www.bkjha.com/tags/cli/</loc>
-  </url><url>
-    <loc>https://www.bkjha.com/tags/rclone/</loc>
   </url><url>
     <loc>https://www.bkjha.com/search/</loc>
   </url><url>
     <loc>https://www.bkjha.com/series/</loc>
-  </url><url>
-    <loc>https://www.bkjha.com/posts/rclone-onedrive/</loc>
   </url>
 </urlset>

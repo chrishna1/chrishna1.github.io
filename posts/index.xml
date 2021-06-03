@@ -5,7 +5,18 @@
     <link>https://www.bkjha.com/posts/</link>
     <description>Recent content in Posts on Bal Krishna Jha</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Feb 2021 21:11:39 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 10:16:53 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use rclone with OneDrive(Business plan) without Business API access</title>
+      <link>https://www.bkjha.com/posts/rclone-onedrive/</link>
+      <pubDate>Thu, 03 Jun 2021 10:16:53 +0530</pubDate>
+      
+      <guid>https://www.bkjha.com/posts/rclone-onedrive/</guid>
+      <description>Hi there 👋
+Let&amp;rsquo;s say you have to share a report that you&amp;rsquo;re generating programatically with a consultant in your company every week. Your general approach might be to upload it to your organization&amp;rsquo;s document/file storage platform(e.g OneDrive) and share it. If you&amp;rsquo;ve to do this multiple times, it&amp;rsquo;s boring to perform the same steps over and over again!
+What about automating this process? As soon as your report is generated you can run a command that will copy your file present in local to OneDrive server.</description>
+    </item>
+    
     <item>
       <title>My first blog</title>
       <link>https://www.bkjha.com/posts/first/</link>
@@ -16,17 +27,6 @@
 Finally, I&amp;rsquo;m done with the setup of my blog. The purpose of this blog will be to share the
  💬 Concepts that I keep learning in a simple language 📚 Books that I read and many other things, that I&amp;rsquo;m also not sure about.  Let&amp;rsquo;s hope this blogging spirit continues forever! 😎
 Have fun, Keep hacking!</description>
-    </item>
-    
-    <item>
-      <title>Use rclone with OneDrive(Business plan) without Business API access</title>
-      <link>https://www.bkjha.com/posts/rclone-onedrive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bkjha.com/posts/rclone-onedrive/</guid>
-      <description>Hi there 👋
-Let&amp;rsquo;s say you have to share a report that you&amp;rsquo;re generating programatically with a consultant in your company every week. Your general approach might be to upload it to your organization&amp;rsquo;s document/file storage platform(e.g OneDrive) and share it. If you&amp;rsquo;ve to do this multiple times, it&amp;rsquo;s boring to perform the same steps over and over again!
-What about automating this process? As soon as your report is generated you can run a command that will copy your file present in local to OneDrive server.</description>
     </item>
     
   </channel>

@@ -9,7 +9,19 @@
       <link>https://www.bkjha.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Jun 2021 10:16:53 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 15:14:44 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix: E: Unmet dependencies. and E: Sub-process /usr/bin/dpkg returned an error code (1)</title>
+      <link>https://www.bkjha.com/posts/fix-unmet-dependencies/</link>
+      <pubDate>Sun, 13 Jun 2021 15:14:44 +0530</pubDate>
+      
+      <guid>https://www.bkjha.com/posts/fix-unmet-dependencies/</guid>
+      <description>Hi there 👋
+If you&amp;rsquo;re trying to install/update/remove/fix a debian package and getting the error mentioned in title, and none of the following commands are working,
+sudo apt-get remove sudo apt-get install sudo apt-get purge sudo apt-get autoremove sudo apt-get autoclean sudo apt-get install -f you&amp;rsquo;re at the right place.
+You&amp;rsquo;ll face this error if you&amp;rsquo;ve terminated the installation process of a software package. You may&amp;rsquo;ve forgotten, when and why did you terminate the installation, but that&amp;rsquo;s not an issue, you&amp;rsquo;ll still be able to fix this issue.</description>
+    </item>
+    
     <item>
       <title>Use rclone with OneDrive(Business plan) without Business API access</title>
       <link>https://www.bkjha.com/posts/rclone-onedrive/</link>

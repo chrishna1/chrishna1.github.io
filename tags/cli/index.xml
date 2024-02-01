@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cli on Bal Krishna Jha</title>
     <link>https://www.bkjha.com/tags/cli/</link>
     <description>Recent content in cli on Bal Krishna Jha</description>
     <image>
+      <title>Bal Krishna Jha</title>
       <url>https://www.bkjha.com/papermod-cover.png</url>
       <link>https://www.bkjha.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Jun 2021 10:16:53 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jun 2021 10:16:53 +0530</lastBuildDate>
+    <atom:link href="https://www.bkjha.com/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Use rclone with OneDrive(Business plan) without Business API access</title>
       <link>https://www.bkjha.com/posts/rclone-onedrive/</link>
       <pubDate>Thu, 03 Jun 2021 10:16:53 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/posts/rclone-onedrive/</guid>
-      <description>Hi there 👋
+      <description>Hi there &amp;#x1f44b;
 Let&amp;rsquo;s say you have to share a report that you&amp;rsquo;re generating programmatically with a consultant in your company every week. Your general approach might be to upload it to your organization&amp;rsquo;s document/file storage platform(e.g OneDrive) and share it. If you&amp;rsquo;ve to do this multiple times, it&amp;rsquo;s boring to perform the same steps over and over again!
 What about automating this process? As soon as your report is generated you can run a command that will copy your file present in local to OneDrive server.</description>
     </item>
-    
   </channel>
 </rss>

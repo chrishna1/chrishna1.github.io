@@ -1,77 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bal Krishna Jha</title>
     <link>https://www.bkjha.com/tags/</link>
     <description>Recent content in Tags on Bal Krishna Jha</description>
     <image>
+      <title>Bal Krishna Jha</title>
       <url>https://www.bkjha.com/papermod-cover.png</url>
       <link>https://www.bkjha.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Jun 2021 15:14:44 +0530</lastBuildDate><atom:link href="https://www.bkjha.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jun 2021 15:14:44 +0530</lastBuildDate>
+    <atom:link href="https://www.bkjha.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dpkg</title>
       <link>https://www.bkjha.com/tags/dpkg/</link>
       <pubDate>Sun, 13 Jun 2021 15:14:44 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/dpkg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>troubleshooting</title>
       <link>https://www.bkjha.com/tags/troubleshooting/</link>
       <pubDate>Sun, 13 Jun 2021 15:14:44 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/troubleshooting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ubuntu</title>
       <link>https://www.bkjha.com/tags/ubuntu/</link>
       <pubDate>Sun, 13 Jun 2021 15:14:44 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>automate-the-boring-stuff</title>
       <link>https://www.bkjha.com/tags/automate-the-boring-stuff/</link>
       <pubDate>Thu, 03 Jun 2021 10:16:53 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/automate-the-boring-stuff/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cli</title>
       <link>https://www.bkjha.com/tags/cli/</link>
       <pubDate>Thu, 03 Jun 2021 10:16:53 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/cli/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>rclone</title>
       <link>https://www.bkjha.com/tags/rclone/</link>
       <pubDate>Thu, 03 Jun 2021 10:16:53 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/rclone/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>first</title>
       <link>https://www.bkjha.com/tags/first/</link>
       <pubDate>Sat, 20 Feb 2021 21:11:39 +0530</pubDate>
-      
       <guid>https://www.bkjha.com/tags/first/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

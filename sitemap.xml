@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.bkjha.com/posts/back-again/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
     <loc>https://www.bkjha.com/</loc>
-    <lastmod>2021-06-13T15:14:44+05:30</lastmod>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/break/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/lavi/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/life-update/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/posts/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/tags/</loc>
+    <lastmod>2024-02-01T15:57:39+05:30</lastmod>
   </url><url>
     <loc>https://www.bkjha.com/tags/dpkg/</loc>
     <lastmod>2021-06-13T15:14:44+05:30</lastmod>
   </url><url>
     <loc>https://www.bkjha.com/posts/fix-unmet-dependencies/</loc>
-    <lastmod>2021-06-13T15:14:44+05:30</lastmod>
-  </url><url>
-    <loc>https://www.bkjha.com/posts/</loc>
-    <lastmod>2021-06-13T15:14:44+05:30</lastmod>
-  </url><url>
-    <loc>https://www.bkjha.com/tags/</loc>
     <lastmod>2021-06-13T15:14:44+05:30</lastmod>
   </url><url>
     <loc>https://www.bkjha.com/tags/troubleshooting/</loc>
@@ -40,6 +52,8 @@
   </url><url>
     <loc>https://www.bkjha.com/posts/first/</loc>
     <lastmod>2021-02-20T21:11:39+05:30</lastmod>
+  </url><url>
+    <loc>https://www.bkjha.com/about/</loc>
   </url><url>
     <loc>https://www.bkjha.com/archives/</loc>
   </url><url>

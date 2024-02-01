@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>break on bkjha.com</title>
+    <link>https://www.bkjha.com/tags/break/</link>
+    <description>Recent content in break on bkjha.com</description>
+    <image>
+      <title>bkjha.com</title>
+      <url>https://www.bkjha.com/papermod-cover.png</url>
+      <link>https://www.bkjha.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2024 15:57:39 +0530</lastBuildDate>
+    <atom:link href="https://www.bkjha.com/tags/break/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>back again</title>
+      <link>https://www.bkjha.com/posts/back-again/</link>
+      <pubDate>Thu, 01 Feb 2024 15:57:39 +0530</pubDate>
+      <guid>https://www.bkjha.com/posts/back-again/</guid>
+      <description>hi, aadab, namaskar, sat sri akal, hola
+it&amp;rsquo;s been more than 2 and half year since i last posted something here. i&amp;rsquo;ll use this post as an opportunity to go back in time.
+it&amp;rsquo;s been so long that i even forgot how to use Hugo(the framework used for this blog). in between, the domain had expired. thankfully no one claimed it for more than an year - perks of choosing a not so fancy domain name.</description>
+    </item>
+  </channel>
+</rss>

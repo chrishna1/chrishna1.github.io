@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bal Krishna Jha</title>
+    <title>bkjha.com</title>
     <link>https://www.bkjha.com/</link>
-    <description>Recent content on Bal Krishna Jha</description>
+    <description>Recent content on bkjha.com</description>
     <image>
-      <title>Bal Krishna Jha</title>
+      <title>bkjha.com</title>
       <url>https://www.bkjha.com/papermod-cover.png</url>
       <link>https://www.bkjha.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Jun 2021 15:14:44 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:57:39 +0530</lastBuildDate>
     <atom:link href="https://www.bkjha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>back again</title>
+      <link>https://www.bkjha.com/posts/back-again/</link>
+      <pubDate>Thu, 01 Feb 2024 15:57:39 +0530</pubDate>
+      <guid>https://www.bkjha.com/posts/back-again/</guid>
+      <description>hi, aadab, namaskar, sat sri akal, hola
+it&amp;rsquo;s been more than 2 and half year since i last posted something here. i&amp;rsquo;ll use this post as an opportunity to go back in time.
+it&amp;rsquo;s been so long that i even forgot how to use Hugo(the framework used for this blog). in between, the domain had expired. thankfully no one claimed it for more than an year - perks of choosing a not so fancy domain name.</description>
+    </item>
     <item>
       <title>Fix: E: Unmet dependencies. and E: Sub-process /usr/bin/dpkg returned an error code (1)</title>
       <link>https://www.bkjha.com/posts/fix-unmet-dependencies/</link>
@@ -41,6 +50,15 @@ What about automating this process? As soon as your report is generated you can 
 Finally, I&amp;rsquo;m done with the setup of my blog. The purpose of this blog will be to share the
 &amp;#x1f4ac; Concepts that I keep learning in a simple language &amp;#x1f4da; Books that I read and many other things, that I&amp;rsquo;m also not sure about. Let&amp;rsquo;s hope this blogging spirit continues forever! &amp;#x1f60e;
 Have fun, Keep hacking!</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://www.bkjha.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.bkjha.com/about/</guid>
+      <description>Hey there, hope you&amp;rsquo;re having fun.
+My name is Krishna. I accidently fell into the well of programming many years ago. Now, it&amp;rsquo;s hard even to think of coming out of it. When I started, didn&amp;rsquo;t think it&amp;rsquo;ll be the source of my bread and butter. But yeah, it happened and I&amp;rsquo;m glad and grateful to be in this field.
+When not in front of screen, I love spending time outdoor.</description>
     </item>
   </channel>
 </rss>

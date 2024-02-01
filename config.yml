@@ -1,5 +1,5 @@
 baseURL: "https://www.bkjha.com/"
-title: Bal Krishna Jha
+title: bkjha.com
 paginate: 8
 theme: PaperMod
 
@@ -22,6 +22,12 @@ languages:
     weight: 1
     menu:
       main:
+        - name: About
+          url: about
+          weight: 5
+        - name: Blog
+          url: posts
+          weight: 5
         - name: Archive
           url: archives
           weight: 5
@@ -31,9 +37,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: Categories
-          url: categories/
-          weight: 10
+        # - name: Categories
+        #   url: categories/
+        #   weight: 10
 
 outputs:
   home:
@@ -63,21 +69,23 @@ params:
 
   profileMode:
     enabled: false
-    title: Bal Krishna Jha
+    title: Hi 👋🏼
+    subtitle: "Musafir hu yaro, na ghar hai na thikana"
     imageUrl: "#"
     imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
+    imageWidth: 120
+    imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
+      - name: Blog
+        url: posts
       - name: Tags
         url: tags
 
   homeInfoParams:
-    Title: "Bal Krishna Jha"
-    # Content: >
-    #   Welcome to this blog.
+    Title: "Hi 👋🏼"
+    Content: >
+      Welcome. Swagat. 
+
 
   socialIcons:
     - name: github
@@ -89,7 +97,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/bal-krishna-jha/"
     - name: twitter
-      url: "https://twitter.com/nsolublefractn"
+      url: "https://twitter.com/80_ghat"
     - name: email
       url: "mailto:adjnct+site@gmail.com"
     # - name: gitlab

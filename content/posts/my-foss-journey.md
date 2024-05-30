@@ -1,5 +1,5 @@
 ---
-title: "My Foss Journey"
+title: "My FOSS Journey"
 date: 2024-03-17T20:21:01+05:30
 draft: false
 ---

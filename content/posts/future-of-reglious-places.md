@@ -1,6 +1,7 @@
 ---
 title: "Future of Religious Places"
 date: 2024-05-30T17:21:49+05:30
+tags: ["daydreaming"]
 draft: false
 ---
 
@@ -45,5 +46,5 @@ Just imagine taking a morning Kathak class beneath a large banyan tree, beside a
 
 साक्षात प्रभु का दर्शन
 
-I dream a lot!
+I daydream a lot!
 

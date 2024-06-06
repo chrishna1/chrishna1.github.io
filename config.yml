@@ -20,23 +20,23 @@ languages:
   en:
     languageName: "English"
     weight: 1
-    menu:
-      main:
-        - name: About
-          url: about
-          weight: 5
-        - name: Blog
-          url: posts
-          weight: 5
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
+    # menu:
+    #   main:
+    #     - name: About
+    #       url: about
+    #       weight: 5
+    #     - name: Blog
+    #       url: posts
+    #       weight: 5
+    #     - name: Archive
+    #       url: archives
+    #       weight: 5
+    #     - name: Search
+    #       url: search/
+    #       weight: 10
+    #     - name: Tags
+    #       url: tags/
+    #       weight: 10
         # - name: Categories
         #   url: categories/
         #   weight: 10
@@ -68,18 +68,18 @@ params:
   images: ["papermod-cover.png"]
 
   profileMode:
-    enabled: false
-    title: Hi 👋🏼
-    subtitle: "Musafir hu yaro, na ghar hai na thikana"
-    imageUrl: "#"
-    imageTitle: my image
-    imageWidth: 120
-    imageHeight: 120
-    buttons:
-      - name: Blog
-        url: posts
-      - name: Tags
-        url: tags
+    enabled: true
+    title: Hi. नमस्ते. 🙏🏾
+    subtitle: "My name is Bal Krishna Jha. I enjoy learning diverse range of topics. And I love sharing it by creating content."
+    # imageUrl: "https://ibb.co/VH9RB6c"
+    # imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    # buttons:
+    #   - name: Blog
+    #     url: posts
+    #   - name: Tags
+    #     url: tags
 
   homeInfoParams:
     Title: "Hi 👋🏼"
@@ -88,18 +88,20 @@ params:
 
 
   socialIcons:
-    - name: github
-      url: "https://github.com/chrishna1/"
     # - name: RSS
     #   url: "index.xml"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/7699859"
+    - name: youtube
+      url: "https://www.youtube.com/@BalKrishnaJha1"
     - name: linkedin
       url: "https://www.linkedin.com/in/bal-krishna-jha/"
+    - name: github
+      url: "https://github.com/chrishna1/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/7699859"
     - name: twitter
       url: "https://twitter.com/80_ghat"
     - name: email
-      url: "mailto:adjnct+site@gmail.com"
+      url: "mailto:hi@bkjha.com"
     # - name: gitlab
     #   url: "index.xml"
 
